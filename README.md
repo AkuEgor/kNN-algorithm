@@ -12,25 +12,25 @@ Program reads the data from training set of  characteristics and names of 4 spec
 
 ## How to Run?
 
-*Run Code*
+* Run Code
 You can decide to run program on test file or your own input data
 ### Running through the test file:
-*Enter name of the train file: 
+* Enter name of the train file: 
 ```
 train.txt
 ```
-*Enter name of the test file: 
+* Enter name of the test file: 
 ```
 test.txt
 ```
-*Enter the K value (number of neighbors)
+* Enter the K value (number of neighbors)
 
 ### Running through your own input:
-*Enter 4 characteristics of a flower(Ex. 4.5,3.6,2.5,4.6)
-*Enter name of your flower
-*Enter the K value (number of neighbors)
+* Enter 4 characteristics of a flower(Ex. 4.5,3.6,2.5,4.6)
+* Enter name of your flower
+* Enter the K value (number of neighbors)
 
 ## Authors
 
-*[Yahor Akushevich](https://www.linkedin.com/in/yahor-akushevich-4101ba110/)
-*Ekrem Aras
+* [Yahor Akushevich](https://www.linkedin.com/in/yahor-akushevich-4101ba110/)
+* Ekrem Aras
